@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Kottu Roti","category":"Local Favourites","price":750,"description":"Chopped roti stir-fried with vegetables, egg and aromatic spices.","emoji":"🍛","featured":true},
+  {"id":2,"name":"Chicken Fried Rice","category":"Rice & Bowls","price":850,"description":"Fluffy fragrant rice, tender chicken, garden vegetables and a little spice.","emoji":"🍚","featured":true},
+  {"id":3,"name":"Watalappan","category":"Sweet Treats","price":350,"description":"Creamy Sri Lankan jaggery and coconut custard with warm spices.","emoji":"🍮","featured":false},
+  {"id":4,"name":"Vegetable Noodles","category":"Rice & Bowls","price":650,"description":"Wok-tossed noodles with crunchy seasonal vegetables.","emoji":"🍜","featured":false},
+  {"id":5,"name":"Egg Hoppers","category":"Local Favourites","price":300,"description":"Crispy rice-flour hoppers with a golden egg centre.","emoji":"🥚","featured":false},
+  {"id":6,"name":"Iced Milo","category":"Drinks","price":280,"description":"Chilled cocoa malt drink served over ice.","emoji":"🥤","featured":false}
+]
