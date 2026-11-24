@@ -1,5 +1,7 @@
 # CampusEats — SE3090 Lab 11 (IT24103606)
 
+**Live Demo:** [campuseats-fullstack-pubu.vercel.app](https://campuseats-fullstack-pubu.vercel.app)
+
 A beginner-friendly React/Vite frontend and optional ASP.NET Core 8 API + Neon PostgreSQL database deployment scaffold for SLIIT's SE3090 DevOps and Cloud Hosting Platforms lab.
 
 ## Project structure
